@@ -49,12 +49,12 @@ Here we take GraphSAGE and GAT as examples.
 If you like our work and use the model for your research, please cite our work as follows.
 
 ```bibtex
-@inproceedings{
-anonymous2023crosslinks,
-title={Cross-links Matter for Link Prediction: Rethinking the Debiased {GNN} from a Data Perspective},
-author={Anonymous},
+@inproceedings{luo2023cross-links,
+author = {Luo, Zihan and Lian, Jianxun and Huang, Hong and Song, Xiran and Xie, Xing and Jin, Hai},
+title = {Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-year={2023},
-url={https://openreview.net/forum?id=sJDkwMVqb9}
+year = {2023},
+month = {October},
+url = {https://www.microsoft.com/en-us/research/publication/cross-links-matter-for-link-prediction-rethinking-the-debiased-gnn-from-a-data-perspective/},
 }
 ``` 
