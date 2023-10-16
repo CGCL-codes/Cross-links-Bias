@@ -39,6 +39,10 @@ All arguments are properly set in advance in the script files for reproducing ou
 
 Here we take GraphSAGE and GAT as examples.
 
+```
+> bash script/run_graphsage_e2e.sh
+> bash script/run_gat_e2e.sh
+```
 
 ## BibTeX
 
@@ -54,8 +58,3 @@ year={2023},
 url={https://openreview.net/forum?id=sJDkwMVqb9}
 }
 ``` 
-
-```
-> bash script/run_graphsage_e2e.sh
-> bash script/run_gat_e2e.sh
-```
