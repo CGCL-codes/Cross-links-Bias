@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# community-bias
-Mitigating the bias between inter-edge and intra-edge
-=======
-# Implementation for NeurIPS 2023 #9342
-This repository includes the implementation for our paper: ***Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective.***
+# Note
+This repository includes the implementation for our NeurIPS 2023 paper: ***Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective.***
 
 ## Environments
 
@@ -30,7 +26,7 @@ Run the following code to install all required packages.
 
 ## Datasets & Processed files
 
-- Due to size limitation, the processed files and datasets are stored in  [google drive](https://drive.google.com/file/d/1uG43ndQih7OlH477pe3pR3OB4W0sxeSP/view?usp=share_link) with anomynous user information. The datasets include Epinions, DBLP and LastFM. 
+- Due to size limitation, the processed files and datasets are stored in  [google drive](https://drive.google.com/file/d/1uG43ndQih7OlH477pe3pR3OB4W0sxeSP/view?usp=share_link). The datasets include Epinions, DBLP and LastFM. 
 - Each dataset directory contains the following processed files: 
     * graph.pkl: DGLGraph object for storing the graph structure.
     * split_edge.pkl: Splitted training samples, validation samples and test samples.
