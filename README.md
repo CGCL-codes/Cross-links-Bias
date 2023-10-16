@@ -39,6 +39,22 @@ All arguments are properly set in advance in the script files for reproducing ou
 
 Here we take GraphSAGE and GAT as examples.
 
+
+## BibTeX
+
+If you like our work and use the model for your research, please cite our work as follows.
+
+```bibtex
+@inproceedings{
+anonymous2023crosslinks,
+title={Cross-links Matter for Link Prediction: Rethinking the Debiased {GNN} from a Data Perspective},
+author={Anonymous},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=sJDkwMVqb9}
+}
+``` 
+
 ```
 > bash script/run_graphsage_e2e.sh
 > bash script/run_gat_e2e.sh
