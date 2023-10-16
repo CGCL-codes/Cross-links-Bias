@@ -1,0 +1,7 @@
+emb_dim: 64
+topk: 64
+alpha: 0.15
+num_walks: 100
+walk_length: 20
+
+

@@ -1,0 +1,17 @@
+# LastFM
+# num_neg: 1024  # 512
+# neg_weight: 1024  # 512
+# lambda: 0.8
+# gamma: 3.5
+# l2_reg_weight: 0.0
+# topk: 1
+# emb_dim: 64
+
+# DBLP / Amazon
+num_neg: 64 
+neg_weight: 64 
+lambda: 0.8
+gamma: 3.5
+l2_reg_weight: 0.0
+topk: 8
+emb_dim: 64

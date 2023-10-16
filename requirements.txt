@@ -1,0 +1,9 @@
+dgl_cu102==0.9.1.post1
+numpy==1.19.2
+python_louvain==0.15
+networkx==2.5
+tqdm==4.62.3
+torch==1.12.1+cu102
+community==1.0.0b1
+dgl==1.1.0
+PyYAML==6.0
