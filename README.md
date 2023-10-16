@@ -43,4 +43,3 @@ Here we take GraphSAGE and GAT as examples.
 > bash script/run_graphsage_e2e.sh
 > bash script/run_gat_e2e.sh
 ```
->>>>>>> the first version
