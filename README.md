@@ -50,7 +50,7 @@ If you like our work and use the model for your research, please cite our work a
 
 ```bibtex
 @inproceedings{luo2023cross-links,
-author = {Luo, Zihan and Lian, Jianxun and Huang, Hong and Song, Xiran and Xie, Xing and Jin, Hai},
+author = {Luo, Zihan and Huang, Hong and Lian, Jianxun and Song, Xiran and Xie, Xing and Jin, Hai},
 title = {Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year = {2023},
