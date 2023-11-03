@@ -1,5 +1,5 @@
 # Note
-This repository includes the implementation for our NeurIPS 2023 paper: ***Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective.***
+This repository includes the implementation for our NeurIPS 2023 paper: ***[Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective](https://neurips.cc/virtual/2023/poster/70277).***
 
 ## Environments
 
