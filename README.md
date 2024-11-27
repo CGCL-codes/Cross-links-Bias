@@ -23,6 +23,8 @@ Run the following code to install all required packages.
 ```
 > pip install -r requirements.txt
 ```
+> [!NOTE]
+> We notice that now `dgl_cu102==0.9.1.post1` can not be installed by conda/pip directly. One can refer to the [previous packages](https://conda.anaconda.org/dglteam/linux-64) and download the corresponding package before installation.
 
 ## Datasets & Processed files
 
